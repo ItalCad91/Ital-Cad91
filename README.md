@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Riccardo, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toronto, Canada.</b></p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="HTML" src="./images/html.png" />
+  <img height="2000px" alt="HTML" src="./images/html.png" />
   <img alt="CSS" src="./images/css.jpg" /> 
   <img alt="JS" src="./images/javascript.png" />
   <img alt="TS" src="./images/typescript.png" />
