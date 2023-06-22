@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Riccardo, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toronto, Canada.</b></p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="HTML" src="./images/html5.png" />
+  <img alt="HTML" src="./images/html5%20(1).png" />
   <img alt="CSS" src="./images/css.jpg" /> 
   <img alt="JS" src="./images/javascript.png" />
   <img alt="TS" src="./images/typescript.png" />
@@ -50,10 +50,5 @@
 </table>
 
 <h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/riccardo-reali-/" target="_blank"><img href="./images/linkedin.png">Linkedin</a>
+<p><a href="https://www.linkedin.com/in/riccardo-reali-/" target="_blank"><img src="./images/linkedin.png">Linkedin</a>
 </p>
-
----
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 22 June, 20:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
