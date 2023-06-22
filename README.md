@@ -3,15 +3,15 @@
 <p>Welcome to my page! </br> I'm Riccardo, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toronto, Canada.</b></p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="./images/html5.png" />
-  <img alt="Webpack" src="./images/css.jpg" /> 
-  <img alt="Docker" src="./images/javascript.png" />
-  <img alt="github actions" src="./images/typescript.png" />
-  <img alt="Google Cloud Platform" src="./images/nodejs.png" />
-  <img alt="TypeScript" src="./images/react.png" />
-  <img alt="Insomnia" src="./images/angular.png" />
-  <img alt="Apollo" src="./images/mysql.png" />
-  <img alt="Heroku" src="./images/mongodb.png" />
+  <img alt="HTML" src="./images/html5.png" />
+  <img alt="CSS" src="./images/css.jpg" /> 
+  <img alt="JS" src="./images/javascript.png" />
+  <img alt="TS" src="./images/typescript.png" />
+  <img alt="NodeJS" src="./images/nodejs.png" />
+  <img alt="React" src="./images/react.png" />
+  <img alt="Angular" src="./images/angular.png" />
+  <img alt="MySQL" src="./images/mysql.png" />
+  <img alt="MongoDB" src="./images/mongodb.png" />
 </p>
 <h3>Open source projects</h3>
 <table>
@@ -50,7 +50,7 @@
 </table>
 
 <h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/riccardo-reali-/" target="_blank">Linkedin</a>
+<p><a href="https://www.linkedin.com/in/riccardo-reali-/" target="_blank"><img href="./images/linkedin.png">Linkedin</a>
 </p>
 
 ---
