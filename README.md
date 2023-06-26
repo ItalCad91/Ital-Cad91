@@ -1,4 +1,9 @@
-<h1 style="text-align: center;"><img src="./images/hello-world.png"> HELLO WORLD!</h1>
+<div style="text-align: center;">
+  <h1>
+    <img src="./images/hello-world.png" alt="Hello World">
+    HELLO WORLD!
+  </h1>
+</div>
 
 <p>Welcome to my page! </br> I'm Riccardo, Fullstack developer originally from <img src="./images/italy.png" width="30"/>. Moved in <b>Toronto, Canada.</b> in 2015.</p>
 <h3>Things I code with</h3>
