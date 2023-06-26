@@ -18,5 +18,5 @@
 <a href="https://github.com/ItalCad91?tab=repositories" style="decoration: none;"> Click here</a>
 </div>
 <h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/riccardo-reali-/" target="_blank"><img src="./images/linkedin.png">Linkedin</a>
+<p><a href="https://www.linkedin.com/in/riccardo-reali-/" target="_blank"><img src="./images/linkedin.png"> Linkedin</a>
 </p>
