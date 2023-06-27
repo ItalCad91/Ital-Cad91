@@ -6,7 +6,8 @@
 </div>
 
 <p>Welcome to my page! </br> I'm Riccardo, Fullstack developer originally from <img src="./images/italy.png" width="30"/>. Moved in <b>Toronto, Canada.</b> in 2015.</p>
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I’m currently working on React Projects<br><br>🌱 I’m currently learning Angular<br><br>👨‍💻 All of my projects are available at http://tinyurl.com/RRsystemPortfolio<br><br>📫 How to reach me riccardoreali05@gmail.com
 
 
