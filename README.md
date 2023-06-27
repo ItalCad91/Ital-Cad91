@@ -1,9 +1,10 @@
-<div style="text-align: center;">
-  <h1>
-    <img src="./images/hello-world.png" alt="Hello World">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <h1 style="margin-left: 10px;">
+    <img src="./images/hello-world.png" alt="Hello World" style="vertical-align: middle;">
     HELLO WORLD!
   </h1>
 </div>
+
 
 <p>Welcome to my page! </br> I'm Riccardo, Fullstack developer originally from <img src="./images/italy.png" width="30"/>. Moved in <b>Toronto, Canada.</b> in 2015.</p>
 
