@@ -9,7 +9,7 @@
 <p> I'm Riccardo, Fullstack developer originally from <img src="./images/italy.png" width="30"/> </p>
 <p>Living in <b>Toronto, Canada.</b></p>
 <br>
-🔭 I’m currently working on React Projects<br><br>🌱 I’m currently learning Angular<br><br>👨‍💻 All of my projects are available at http://tinyurl.com/RRsystemPortfolio<br><br>📫 How to reach me riccardoreali05@gmail.com
+🔭 I’m currently working on various Projects<br><br>👨‍💻 All of my projects are available at http://tinyurl.com/RRsystemPortfolio<br><br>📫 Reach me at: riccardoreali05@gmail.com
 
 
 ## 🌐 Socials:
